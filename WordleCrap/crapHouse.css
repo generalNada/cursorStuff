@@ -1,0 +1,8 @@
+.crapHouseBody {
+    background-color: #0ea1d6;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    color: #333;
+    margin: 20px;
+    padding: 20px;
+    border: 5px dashed #ff4500;
+}
