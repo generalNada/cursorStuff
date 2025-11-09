@@ -1321,7 +1321,7 @@ export const dailyWordsSmall = [
     'ADORN', 'AFIRE', 'AFOOT', 'AFOUL', 'AIDER', 'ALGAE',
     'ALIBI', 'ALIGN', 'ALLAY', 'ALLEY', 'ALLOT', 'ALLOY', 'AMAZE', 'AMEND',
     'AMITY', 'AMONG', 'AMPLY', 'ANIME', 'ANKLE',
-    'ANNUL', 'APING', 'APNEA', 'ARENA', 'ARISE', 'ARMOR', 'AROSE', 'ARRAY', 
+    'ANNUL', 'APING', 'APNEA', 'ARENA', 'ARMOR', 'AROSE', 'ARRAY', 
     'ARSON', 'ATTIC', 'AUGUR', 'AUNTY', 'AVIAN', 'AVOID', 
     'AXIAL', 'AXION', 'BAGGY', 'BARON',
     'BASAL', 'BASIL', 'BASIS', 'BATCH', 'BEECH', 'BEFIT',
@@ -1331,7 +1331,7 @@ export const dailyWordsSmall = [
     'BLOAT', 'BLOOD', 'BLOOM', 'BLUER', 'BOBBY', 'BONEY', 
     'BOOTH', 'BOSOM', 'BOTCH', 'BOULE', 'BOUND', 'BOWEL', 
     'BRAWL', 'BRICK', 'BROIL',
-    'BROOD', 'BROWN', 'BRUNT', 'BUDGE', 'BUNNY', 'BURNT', 'BURST', 'BUSED', 
+    'BROOD', 'BROWN', 'BRUNT', 'BUDGE', 'BUNNY', 'BURST', 'BUSED', 
     'BUSHY', 'BUTCH', 'BUTTE', 'BUXOM', 'BUYER', 'BYLAW', 'CABAL', 'CABBY', 'CABIN', 'CACTI', 
     'CADDY', 'CAGEY', 'CAIRN', 'CANAL', 
     'CAPUT', 'CASTE', 'CAVIL', 'CELLO', 'CHAFF', 
@@ -1393,7 +1393,7 @@ export const dailyWordsSmall = [
     'OVARY', 'OVATE', 'OVINE', 'OVOID', 'OWING', 'PADDY', 'PAGAN',
     'PALER', 'PALSY', 'PANSY', 'PARKA', 'PARSE', 'PASTE', 'PASTY', 
     'PAYEE', 'PAYER', 'PECAN', 'PENAL', 'PENCE', 'PENNY',
-    'PEONY', 'PERIL', 'PESTO', 'PIGGY', 'PIVOT', 'PIZZA',
+    'PEONY', 'PESTO', 'PIGGY', 'PIVOT', 'PIZZA',
     'PLEAD', 'PLIED', 'PLIER', 'PLUME', 'PLUSH',
     'POESY', 'POOCH', 'POSER', 'POSIT', 'POSSE', 'POUCH', 
     'PRAWN', 'PRIED', 'PRISM', 'PRIVY',  
@@ -1496,7 +1496,7 @@ export const dailyWordsLarge = [
     'ARCHI', 'ARCOS', 'ARCUS', 'ARDEB', 'ARDRI', 'AREAD', 'AREAE', 'AREAL', 'AREAR',
     'AREAS', 'ARECA', 'AREDD', 'AREDE', 'AREFY', 'AREIC', 'ARENA', 'ARENE', 'AREPA', 'ARERE',
     'ARETE', 'ARETS', 'ARETT', 'ARGAL', 'ARGAN', 'ARGIL', 'ARGLE', 'ARGOL', 'ARGON', 'ARGOT',
-    'ARGUS', 'ARHAT', 'ARIAS', 'ARIEL', 'ARIKI', 'ARILS', 'ARIOT', 'ARISE', 'ARISH',
+    'ARGUS', 'ARHAT', 'ARIAS', 'ARIEL', 'ARIKI', 'ARILS', 'ARIOT', 'ARISH',
     'ARKED', 'ARLED', 'ARLES', 'ARMED', 'ARMER', 'ARMET', 'ARMIL', 'ARMOR', 'ARNAS', 'ARNUT',
     'AROBA', 'AROHA', 'AROID', 'AROSE', 'ARPAS', 'ARPEN', 'ARRAH', 'ARRAS', 'ARRAY',
     'ARRET', 'ARRIS', 'ARROZ', 'ARSED', 'ARSES', 'ARSEY', 'ARSIS', 'ARSON', 'ARTAL',
@@ -1603,7 +1603,7 @@ export const dailyWordsLarge = [
     'BUNCO', 'BUNDE', 'BUNDH', 'BUNDS', 'BUNDT', 'BUNDU', 'BUNDY', 'BUNGS', 'BUNGY', 'BUNIA',
     'BUNJE', 'BUNJY', 'BUNKO', 'BUNKS', 'BUNNS', 'BUNNY', 'BUNTS', 'BUNTY', 'BUNYA', 'BUOYS',
     'BUPPY', 'BURAN', 'BURAS', 'BURBS', 'BURDS', 'BURET', 'BURFI', 'BURGH', 'BURGS', 'BURIN',
-    'BURKA', 'BURKE', 'BURKS', 'BURLS', 'BURNS', 'BURNT', 'BUROO', 'BURPS', 'BURQA',
+    'BURKA', 'BURKE', 'BURKS', 'BURLS', 'BURNS', 'BUROO', 'BURPS', 'BURQA',
     'BURRO', 'BURRS', 'BURRY', 'BURSA', 'BURSE', 'BURST', 'BUSBY', 'BUSED', 'BUSES', 'BUSHY',
     'BUSKS', 'BUSKY', 'BUSSU', 'BUSTI', 'BUSTS', 'BUSTY', 'BUTCH', 'BUTEO', 'BUTES', 'BUTLE',
     'BUTOH', 'BUTTE', 'BUTTS', 'BUTTY', 'BUTUT', 'BUTYL', 'BUXOM', 'BUYER', 'BUZZY', 'BWANA',
@@ -2262,7 +2262,7 @@ export const dailyWordsLarge = [
     'PELON', 'PELTA', 'PELTS', 'PENAL', 'PENCE', 'PENDS', 'PENDU', 'PENED', 'PENES', 'PENGO',
     'PENIE', 'PENIS', 'PENKS', 'PENNA', 'PENNI', 'PENNY', 'PENTS', 'PEONS', 'PEONY',
     'PEPLA', 'PEPOS', 'PEPPY', 'PEPSI', 'PERAI', 'PERCE', 'PERCS', 'PERDU', 'PERDY',
-    'PEREA', 'PERES', 'PERIL', 'PERIS', 'PERKS', 'PERKY', 'PERMS', 'PERNS', 'PEROG', 'PERPS',
+    'PEREA', 'PERES', 'PERIS', 'PERKS', 'PERKY', 'PERMS', 'PERNS', 'PEROG', 'PERPS',
     'PERRY', 'PERSE', 'PERST', 'PERTS', 'PERVE', 'PERVO', 'PERVS', 'PERVY', 'PESOS',
     'PESTO', 'PESTS', 'PESTY', 'PETAR', 'PETER', 'PETIT', 'PETRE', 'PETRI', 'PETTI',
     'PETTO', 'PEWEE', 'PEWIT', 'PEYSE', 'PHAGE', 'PHANG', 'PHARE', 'PHARM', 
@@ -12295,6 +12295,16 @@ export const wordleWords = [
         myScore: 3,
         wordNumber: 1601,
       },  
+      { word: "PERIL",
+        gameDate: "11/7/25",
+        myScore: 3,
+        wordNumber: 1602,
+      },  
+      { word: "ARISE",
+        gameDate: "11/8/25",
+        myScore: 2,
+        wordNumber: 1603,
+      },  
 
     
   ];
@@ -12312,7 +12322,7 @@ console.log("Push, Stash, and Pop. What the Chryste!")
 console.log("August 4, 2025, Jackwagon. Dickerson. Eff On Off Guyo.")
 console.log("August 7, 2025, CORAL hits! Now what? Scion? Rinse? Caste? But CORAL HITS!")
 console.log("August 9, 2025, Mom: Hello" )
-console.log("November 6, 2025: Trump sux dykk000000000! GUISE")
+console.log("November 8, 2025: Trump sux dykk000000000! ARISE")
 
 
 console.log(wordleWords)
