@@ -101,7 +101,8 @@ my_list = {
 'LEMUR', 'LEVEL', 'LEVER', 'LIBEL', 'LIGHT', 'LILAC', 'LIMBO', 'LIMIT', 'LINEN', 'LINER', 
 'LINGO', 'LITHE', 'LIVER', 'LIVID', 'LLAMA', 
 'LOCAL', 'LOCUS', 'LOFTY', 'LOGIC', 'LOOPY', 'LORIS', 'LOSER', 'LOUSE', 'LOUSY', 'LOVER', 
-'LOWER', 'LOWLY', 'LOYAL', 'LUCID', 'LUCKY', 'LUMPY', 'LUNAR', 'LUNCH', 'LUNGE', 'LUSTY', 
+'LOWER', 'LOWLY', 'LOYAL', 'LUCID', 'LUCKY', 'LUMPY', 'LUNAR', 'LUNCH', 'LUNGE', 'LURID', 
+'LUSTY', 
 'LYING', 'MACAW', 'MACHO', 'MADAM', 'MADLY', 'MAGIC', 'MAGMA', 'MAIZE', 'MAJOR', 'MAMBO', 
 'MANGA', 'MANGO', 'MANIA', 'MANLY', 'MANOR', 'MAPLE', 'MARCH', 'MARRY', 'MARSH', 'MASON', 
 'MASSE', 'MATEY', 'MATCH', 'MATTE', 'MAUVE', 'MAXIM', 'MAYBE', 'MAYOR', 'MEALY', 'MEANT', 
@@ -198,7 +199,7 @@ my_list = {
 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'TINGE'
+word_to_find = 'LURID'
 
 
 if word_to_find in my_list:
