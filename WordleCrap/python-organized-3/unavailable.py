@@ -38,8 +38,8 @@ my_list = {
 'CHUTE', 'CIDER', 'CIGAR', 'CINCH', 'CIRCA', 'CIVIC', 'CIVIL', 'CLASH', 'CLASS', 'CLEAN', 
 'CLEAR', 'CLEFT', 'CLERK', 
 'CLICK', 'CLIMB', 'CLING', 'CLOAK', 'CLOCK', 'CLONE', 'CLOSE', 'CLOTH', 'CLOUD', 'CLOVE', 
-'CLOWN', 'CLUCK', 'COACH', 'COAST', 'COCOA', 'COLON', 'COMET', 'COMFY', 'COMMA', 'CONDO', 
-'CONIC', 'CORAL', 'CORER', 'CORNY', 'COULD', 'COUNT', 'COURT', 'COVEN', 'COVER', 'COVET', 
+'CLOWN', 'CLUCK', 'CLUNG', 'COACH', 'COAST', 'COCOA', 'COLON', 'COMET', 'COMFY', 'COMMA', 
+'CONDO', 'CONIC', 'CORAL', 'CORER', 'CORNY', 'COULD', 'COUNT', 'COURT', 'COVEN', 'COVER', 'COVET', 
 'COWER', 'COYLY', 'CRAFT', 
 'CRAMP', 'CRANE', 'CRANK', 'CRASS', 'CRATE', 'CRAVE', 'CRAWL', 'CRAZE', 'CRAZY', 'CREAK', 
 'CREAM', 'CREDO', 'CREPE', 'CREPT', 'CREST', 'CRIME', 'CRIMP', 'CRISP', 'CROAK', 'CRONE', 
@@ -199,7 +199,7 @@ my_list = {
 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'LURID'
+word_to_find = 'CLUNG'
 
 
 if word_to_find in my_list:
