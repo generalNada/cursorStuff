@@ -199,7 +199,7 @@ my_list = {
 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'OPINE'
+word_to_find = ''
 
 
 if word_to_find in my_list:
