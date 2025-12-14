@@ -58,7 +58,7 @@ unused_list = [
 	        "LUMEN", "LUPUS", "LURCH", "LYMPH",
 	        "LYRIC", "MACRO", "MAFIA", "MAMMA", "MAMMY", 
 	        "MANGE", "MANGY", "MANIC", "MEATY", "MECCA",
-	        "MELEE", "MILKY", "MINIM", "MINOR", "MISER", "MISSY", "MOCHA",
+	        "MELEE", "MILKY", "MINIM", "MINOR", "MISSY", "MOCHA",
 	        "MOGUL", "MOODY", "MORON", "MORPH", "MOTIF", "MOUND",
 	        "MOVER", "MOWER", "MUCUS", "MUDDY", "MURKY", "MUSKY",
 	        "MYRRH", "NACHO", "NEWER", "NEWLY",
@@ -110,7 +110,7 @@ unused_list = [
 	        "THETA", "THONG", "TIGHT", "TIMID",
 	        "TODDY", "TOKEN", "TONAL", "TONER", "TONGA", 
 	        "TORUS", "TRAMP", "TREAD",
-	        "TRIAL", "TRIBE", "TRIED", "TRUCE", "TRUCK", "TRUER",
+	        "TRIAL", "TRIBE", "TRIED", "TRUCE", "TRUER",
 	        "TRUMP", "TRUNK", "TUBAL", "TULLE", "TUMOR", 
 	        "TWEET", "TWIXT", "TYING", "UMBRA", "UNCUT", 
 	        "UNITY", "UNSET", "UNWED", "URINE", "UTILE", "VALOR", 
@@ -124,7 +124,7 @@ unused_list = [
             "WREST", "WRING", "WRYLY", "ZONAL"
              ]
 
-word = 'GUESS'
+word = 'MISER'
 
 
 if word in unused_list:
