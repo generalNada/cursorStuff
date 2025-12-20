@@ -12555,3 +12555,5 @@ logOverallAverageScore();
 const totalScoredWords = wordleWords.filter(entry => entry.myScore >= 0).length;
 
 console.log("Total words with score >= 0:", totalScoredWords);
+
+
