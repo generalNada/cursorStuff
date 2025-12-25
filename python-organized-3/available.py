@@ -1,7 +1,7 @@
 unused_list = [ 
             "ABBOT", "ABLED", "ABODE", "ABORT", "ABUSE", "ADORN",
             "AFIRE", "AFOOT", "AFOUL", "AFOUL", "AIDER", "ALGAE", "ALIBI", "ALIGN",
-			"ALLAY", "ALLEY", "ALLOT", "ALLOY", "AMAZE", "AMEND", "AMPLY", 
+			"ALLAY", "ALLEY", "ALLOT", "ALLOY", "AMAZE", "AMEND", "AMPLY",  
             "ANIME", "ANKLE", "ANNUL", "APING", "APNEA", "ARENA",
             "ARMOR", "AROSE", "ARRAY", "ARSON", "ATTIC", 
             "AUGUR", "AUNTY", "AVIAN", "AVOID", "AXIAL", "AXION", "BAGGY", 
