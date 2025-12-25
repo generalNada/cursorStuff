@@ -135,7 +135,8 @@ my_list = {
 
 # BREAK FOR ALPHABIZING - ADDITIONS CAN BE HELD AT BOTTOM OF REPRESENATIVE BLOCK
 
-'PRESS', 'PRICE', 'PRICK', 'PRIDE', 'PRIME', 'PRIMO', 'PRIMP', 'PRINT', 'PRIOR', 'PRIZE', 
+'PRESS', 'PRICE', 'PRICK', 'PRIDE', 'PRIME', 'PRIMO', 'PRIMP', 'PRINT', 'PRIOR', 'PRISM', 
+'PRIZE', 
 'PROBE', 'PRONE', "PRONG", 'PROSE', 'PROUD', 'PROVE', 'PROWL', 'PROXY', 'PRUNE', 'PSALM', 
 'PULPY', 'PUPIL', 'PURGE', 'QUAIL', 'QUAKE', 'QUALM', 'QUART', 'QUASH', 'QUEEN', 'QUERY', 
 'QUEST', 'QUEUE', 'QUICK', 'QUIET', 'QUILL', 'QUILT', 'QUIRK', 'QUITE', 'QUOTA', 'QUOTE', 
@@ -206,7 +207,7 @@ my_list = {
 'YEARN', 'YEAST', 'YIELD', 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'SPOOL'
+word_to_find = 'PRISM'
 
 
 if word_to_find in my_list:
