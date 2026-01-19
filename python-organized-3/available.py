@@ -101,7 +101,7 @@ unused_list = [
             "STAVE", "STEAK", "STEAL", "STEER", 
             "STOKE", "STOOD", "STOOP", "STRIP", "STRUT", "STUCK", 
             "STUFF", "STUNK",
-	        "SUING", "SULLY", "SUMAC", "SURGE", "SWAMI", "SWAMP", "SWARM",
+	        "SUING", "SULLY", "SURGE", "SWAMI", "SWAMP", "SWARM",
 	        "SWASH", "SWEAR", "SWEPT", "SWIFT", "SWOOP"
             "SWORE", "SWORN", "SYNOD", "TAINT",
 	        "TAKER", "TAMER", "TANGO", "TAROT", "TATTY", "TEARY", "TEDDY",
@@ -120,10 +120,10 @@ unused_list = [
 	        "WELCH", "WELSH", "WHARF", 
 	        "WIDER", "WIDOW", "WIGHT", "WILLY", "WIMPY", "WINCH", "WISER", "WISPY",
 	        "WOMEN", "WOODY", "WOOLY", "WOOZY", "WORTH", "WRACK", "WRECK", 
-            "WREST", "WRING", "WRYLY", "ZONAL"
+            "WREST", "WRING", "WRYLY", "ZONAL" 
              ]
 
-word = 'FIERY'
+word = 'SUMAC'
 
 
 if word in unused_list:
