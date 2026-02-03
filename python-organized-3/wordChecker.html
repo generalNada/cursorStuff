@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="./wordChecker.css" />
   </head>
   <body>
-    <main class="layout">
+    <!-- <main class="layout">
       <header class="intro">
         <a href="../index.html">Back To Cursor, Homey. Got it?</a>
 
@@ -60,6 +60,80 @@
 
         <article class="panel">
           <h2>Check Unavailable List</h2>
+          <form id="unavailable-form" autocomplete="off">
+            <label for="unavailable-input">Enter a five-letter word:</label>
+            <div class="input-cluster">
+              <input
+                id="unavailable-input"
+                name="unavailable-word"
+                maxlength="5"
+                placeholder="e.g. FROZE"
+              />
+              <button type="submit">Check</button>
+            </div>
+          </form>
+          <p class="message" id="unavailable-message">
+            Results will appear here.
+          </p>
+        </article>
+      </section>
+    </main>
+
+    <template id="message-template">
+      <span class="word"></span>
+      <span class="details"></span>
+    </template> -->
+        <main class="layout">
+      <header class="intro">
+        <h1>Word Availability Checker, Python Style</h1>
+        <p>
+          Look up five-letter Wordle words against the curated available and
+          unavailable lists.
+        </p>
+        <p class="hint">
+          Tip: make sure you serve this folder from a local web server (for
+          example: <code>python -m http.server</code>) so that the page can read
+          the word lists.
+        </p>
+      </header>
+
+      <section class="status">
+        <div class="status-card">
+          <span class="status-label">Available words</span>
+          <span class="status-value" id="available-count">—</span>
+        </div>
+        <div class="status-card">
+          <span class="status-label">Unavailable words</span>
+          <span class="status-value" id="unavailable-count">—</span>
+        </div>
+        <div class="status-card">
+          <span class="status-label">Data status</span>
+          <span class="status-value" id="data-status">Loading…</span>
+        </div>
+      </section>
+
+      <section class="panels">
+        <article class="panel">
+          <h2>Check Unavailable List</h2>
+          <form id="available-form" autocomplete="off">
+            <label for="available-input">Enter a five-letter word:</label>
+            <div class="input-cluster">
+              <input
+                id="available-input"
+                name="available-word"
+                maxlength="5"
+                placeholder="e.g. FAUNA"
+              />
+              <button type="submit">Check</button>
+            </div>
+          </form>
+          <p class="message" id="available-message">
+            Results will appear here.
+          </p>
+        </article>
+
+        <article class="panel">
+          <h2>Check Available List</h2>
           <form id="unavailable-form" autocomplete="off">
             <label for="unavailable-input">Enter a five-letter word:</label>
             <div class="input-cluster">
