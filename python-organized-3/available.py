@@ -116,14 +116,14 @@ unused_list = [
 	        "VALVE", "VAPOR", "VAUNT", "VEGAN", "VERSE", "VERSO",
 	        "VICAR", "VIGIL", "VIPER", "VIRUS", "VISIT", "VISTA",
 	        "VOCAL", "VOGUE", "VOMIT", "WAGER", 
-	        "WAIVE", "WARTY", "WAVER", "WEAVE", "WEIGH",
+	        "WAIVE", "WARTY", "WAVER", "WEAVE", 
 	        "WELCH", "WELSH", "WHARF", 
 	        "WIDER", "WIDOW", "WIGHT", "WILLY", "WIMPY", "WINCH", "WISER", "WISPY",
 	        "WOMEN", "WOODY", "WOOLY", "WOOZY", "WORTH", "WRACK", "WRECK", 
             "WREST", "WRING", "WRYLY", "ZONAL" 
              ]
 
-word = 'SPINY'
+word = 'WEIGH'
 
 
 if word in unused_list:
