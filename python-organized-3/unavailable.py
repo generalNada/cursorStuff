@@ -202,7 +202,7 @@ my_list = {
 'STYLE', 'SUAVE', 'SUEDE', 'SUGAR', 'SUITE', 'SULKY', 'SULLY', 'SUMAC', 'SUNNY', 'SUPER', 
 'SURER', 'SURLY', 
 'SUSHI', 'SWEAT', 'SWEEP', 'SWEET', 'SWELL', 'SWILL', 'SWINE', 'SWING', 'SWIRL', 'SWISH', 
-'SWOON', 'SWORD', 'SWUNG', 'SYRUP', 'TABBY', 'TABLE', 
+'SWOON', 'SWOOP', 'SWORD', 'SWUNG', 'SYRUP', 'TABBY', 'TABLE', 
 'TABOO', 'TACIT', 'TACKY', 'TAFFY', 'TAKEN', 'TALLY', 'TALON', 'TANGY', 'TAPER', 'TAPIR', 
 'TARDY', 'TASTE', 'TASTY', 'TAUNT', 'TAUPE', 'TAWNY', 'TEACH', 'TEARY', 'TEASE', 'TEETH', 
 'TEMPO', 'TENOR', 'TENTH', 'TEPID', 'TERSE'  'THANK', 'THEIR', 'THEME', 'THERE', 'THESE', 
@@ -223,7 +223,7 @@ my_list = {
 'VERVE', 'VIDEO', 'VIGOR', 'VILLA', 'VINYL', 'VIOLA', 'VIRAL', 'VISOR', 'VITAL', 'VIVID',
 'VIXEN', 'VODKA', 'VOILA', 'VOICE', 'VOTER', 'VOUCH', 'VOWEL', 'VYING', 'WACKY', 'WAFER', 
 'WAGON', 'WAIST', 'WALTZ', 'WASTE', 'WATCH', 'WATER', 'WAXEN', 'WEARY', 'WEDGE', 'WEEDY', 
-'WEIGH','WEIRD', 'WHACK', 
+'WEIGH','WEIRD',  'WHACK', 
 'WHALE', 'WHEAT', 'WHEEL', 'WHELP', 'WHERE', 'WHICH', 'WHIFF', 'WHILE', 'WHINE', 'WHINY', 
 'WHIRL', 'WHISK', 'WHITE', 'WHOLE', 'WHOOP', 'WHOSE', 'WIDEN', 'WIDTH', 'WIELD', 'WINCE', 
 'WINDY', 
@@ -232,7 +232,7 @@ my_list = {
 'YEARN', 'YEAST', 'YIELD', 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'CHIDE'
+word_to_find = 'SWOOP'
 
 
 if word_to_find in my_list:
