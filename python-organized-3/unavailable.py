@@ -86,7 +86,8 @@ my_list = {
 'FRITZ', 'FROCK', 'FROND', 'FRONT', 'FROST', 'FROTH', 'FROWN', 'FROZE', 'FRUIT', 'FUGUE', 
 'FULLY', 
 'FUNGI', 'FUNKY', 'FUNNY', 'FUZZY', 'GAMER', 'GAMMA', 'GAMUT', 'GAUDY', 'GAUGE', 'GAUNT', 
-'GAUZE', 'GAWKY', 'GECKO', 'GEESE', 'GENIE', 'GENRE', 'GHOST', 'GHOUL', 'GIANT', 'GIDDY', 
+'GAUZE', 'GAVEL', 'GAWKY', 'GECKO', 'GEESE', 'GENIE', 'GENRE', 'GHOST', 'GHOUL', 'GIANT', 
+'GIDDY', 
 'GIRTH', 'GIVEN', 'GIZMO', 'GLADE', 'GLAND', 'GLARE', 'GLASS', 'GLAZE', 'GLEAM', 'GLEAN', 
 'GLIDE', 'GLINT', 'GLOAT', 'GLOBE', 'GLOOM', 'GLORY', 'GLOVE', 'GLYPH', 'GNASH', 'GNOME', 
 'GOING', 
@@ -232,7 +233,7 @@ my_list = {
 'YEARN', 'YEAST', 'YIELD', 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'SWOOP'
+word_to_find = 'GAVEL'
 
 
 if word_to_find in my_list:
