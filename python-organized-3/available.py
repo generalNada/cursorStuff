@@ -8,7 +8,7 @@ unused_list = [
             "BASAL", "BASIL", "BASIS", 
             "BEECH", "BEFIT", "BEGAN", "BEGAT", "BEGUN", "BELLE", "BERRY", "BETEL", "BEVEL", "BEZEL", 
             "BIBLE", "BIDDY", "BIGOT", "BILLY", "BINGO", "BISON", "BITTY", 
-            "BLEAT", "BLESS", "BLIND", "BLITZ", "BLOAT", 
+            "BLESS", "BLIND", "BLITZ", "BLOAT", 
             "BLOOD", "BLOOM", "BLUER", "BOBBY", "BONEY", 
             "BOOTH", "BOSOM", "BOTCH", "BOULE", "BOUND", "BOWEL", 
 		    "BRAWL", "BRICK", "BRINY", "BROIL", "BROOD", "BUDGE",
@@ -123,7 +123,7 @@ unused_list = [
             "WREST", "WRING", "WRYLY", "ZONAL" 
              ]
 
-word = 'GAVEL'
+word = 'BLEAT'
 
 
 if word in unused_list:
