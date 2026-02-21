@@ -2,7 +2,7 @@ my_list = {
  
 'ABACK', 'ABASE', 'ABATE', 'ABBEY', 'ABBOT', 'ABHOR', 'ABIDE', 'ABOUT', 'ABOVE', 'ABYSS', 
 'ACORN', 'ACRID', 'ACTOR', 'ACUTE', 'ADAGE', 'ADAPT', 'ADEPT', 'ADMIN', 'ADMIT', 'ADOBE', 
-'ADOPT', 'ADORE', 'ADULT', 
+'ADOPT', 'ADORE', 'ADULT',  
 'AFFIX', 'AFTER', 'AGAIN', 'AGAPE', 'AGATE', 'AGENT', 'AGILE', 'AGING', 'AGLOW', 'AGONY', 
 'AGREE', 'AHEAD', 'AISLE', 'ALARM', 'ALBUM', 'ALERT', 'ALIEN', 'ALIKE', 'ALIVE', 'ALLOT', 
 'ALLOW', 
@@ -13,7 +13,7 @@ my_list = {
 'ARISE', 'AROMA', 'ARROW', 'ARTSY', 'ASCOT', 'ASHEN', 'ASIDE', 'ASKEW', 'ASSAY', 'ASSET', 
 'ATLAS', 
 'ATOLL', 'ATONE', 'ATRIA', 'AUDIO', 'AUDIT', 'AVAIL', 'AVERT', 'AVOID', 'AWAIT', 'AWAKE', 
-'AWARD', 
+'AWAKE', 'AWARD', 
 'AWARE', 'AWASH', 'AWOKE', 'AWFUL', 'AXIOM', 'AZURE', 'BACON', 'BADGE', 'BADLY', 'BAGEL', 
 'BAKER', 
 'BALER', 'BALMY', 'BALSA', 'BANAL', 'BANJO', 'BARGE', 'BARON', 'BASIC', 'BASIN', 'BATCH', 
@@ -240,7 +240,7 @@ my_list = {
 'YEARN', 'YEAST', 'YIELD', 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'STANK'
+word_to_find = 'AWAKE'
 
 
 if word_to_find in my_list:
