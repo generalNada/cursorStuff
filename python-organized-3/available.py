@@ -98,7 +98,7 @@ unused_list = [
             "SNIFF", "SNIPE", "SNORE", "SNOWY", "SNUCK", "SNUFF", "SOAPY", "SOBER", "SONAR", 
             "SOOTH", "SOOTY", "SPANK", "SPAWN",  
             "SPERM", "SPIED", "SPIKY", "SPILT", "SPOOK", "SPREE", 
-            "SPUNK", "SPURN", "SQUIB", "STALK", "STALL", "STANK",
+            "SPUNK", "SPURN", "SQUIB", "STALK", "STALL",
             "STAVE", "STEAK", "STEAL", "STEER", 
             "STOKE", "STOOD", "STOOP", "STRIP", "STUCK", 
             "STUFF", "STUNK",
@@ -124,7 +124,7 @@ unused_list = [
             "WREST", "WRING", "WRYLY", "ZONAL" 
              ]
 
-word = 'HOIST'
+word = 'STANK'
 
 
 if word in unused_list:
