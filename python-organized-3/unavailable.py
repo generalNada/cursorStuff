@@ -219,8 +219,8 @@ my_list = {
     'VIGOR', 'VILLA', 'VINYL', 'VIOLA', 'VIRAL', 'VISOR', 'VITAL', 'VIVID', 'VIXEN', 'VODKA',
     'VOGUE', 'VOILA', 'VOICE', 'VOTER', 'VOUCH', 'VOWEL', 'VYING', 'WACKY', 'WAFER', 'WAGON', 
     'WAIST',
-    'WALTZ', 'WASTE', 'WATCH', 'WATER', 'WAXEN', 'WEARY', 'WEAVE', 'WEDGE', 'WEEDY', 'WEIGH', 
-    'WEIRD',
+    'WALTZ', 'WASTE', 'WATCH', 'WATER', 'WAVER', 'WAXEN', 'WEARY', 'WEAVE', 'WEDGE', 'WEEDY', 
+    'WEIGH', 'WEIRD',
     'WHACK', 'WHALE', 'WHEAT', 'WHEEL', 'WHELP', 'WHERE', 'WHICH', 'WHIFF', 'WHILE', 'WHINE',
     'WHINY', 'WHIRL', 'WHISK', 'WHITE', 'WHOLE', 'WHOOP', 'WHOSE', 'WIDEN', 'WIDTH', 'WIELD',
     'WINCE', 'WINDY', 'WISER', 'WITTY', 'WOKEN', 'WOMAN', 'WOMEN', 'WOOER', 'WORDY', 'WORLD', 
@@ -229,7 +229,7 @@ my_list = {
     'WRUNG', 'YACHT', 'YEARN', 'YEAST', 'YIELD', 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'DOWDY'
+word_to_find = 'WAVER'
 
 
 if word_to_find in my_list:
@@ -237,3 +237,4 @@ if word_to_find in my_list:
 else:
    print(f"{word_to_find} was NOT found! Feel free to guess {word_to_find}.") 
    
+
