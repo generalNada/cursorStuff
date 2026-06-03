@@ -239,7 +239,7 @@ my_list = {
     'WROTE', 'WRUNG', 'YACHT', 'YEARN', 'YEAST', 'YIELD', 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'BASI'
+word_to_find = 'BASIS'
 
 
 if word_to_find in my_list:
