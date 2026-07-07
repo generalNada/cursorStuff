@@ -224,7 +224,7 @@ my_list = {
     'THRUM', 'THUMB', 'THUMB', 'THUMP', 'THYME', 'TIARA', 'TIBIA', 'TIDAL', 'TIGER', 'TILDE', 
     'TIMER',
     'TINGE', 'TIPSY', 'TITAN', 'TITHE', 'TITLE', 'TIZZY', 'TOAST', 'TODAY', 'TONIC', 'TOADY', 
-    'TOKEN', 'TOOTH',
+    'TODDY', 'TOKEN', 'TOOTH',
     'TOPAZ', 'TOPIC', 'TORCH', 'TORSO', 'TOTAL', 'TOTEM', 'TOUCH', 'TOUGH', 'TOWEL', 'TOWER',
     'TOXIC', 'TOXIN', 'TRACE', 'TRACK', 'TRACT', 'TRADE', 'TRAIL', 'TRAIN', 'TRAIT', 'TRASH',
     'TRAWL', 'TREAT', 'TREND', 'TRIAD', 'TRIAL', 'TRICE', 'TRICK', 'TRIPE', 'TRITE', 'TROLL',
@@ -252,7 +252,7 @@ my_list = {
     'WROTE', 'WRUNG', 'YACHT', 'YEARN', 'YEAST', 'YIELD', 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'SWAMI'
+word_to_find = 'TODDY'
 
 
 if word_to_find in my_list:
