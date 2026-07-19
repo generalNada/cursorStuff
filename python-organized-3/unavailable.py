@@ -27,7 +27,7 @@ my_list = {
     'BINGE', 'BIOME', 'BIRCH', 'BIRTH', 'BLACK', 'BLADE', 'BLAME', 'BLAND', 'BLANK', 'BLARE',
     'BLAST', 'BLAZE', 'BLEAK', 'BLEAT', 'BLEED', 'BLEEP', 'BLEND', 'BLIMP', 'BLINK', 'BLISS',
     'BLOCK', 'BLOKE', 'BLOND', 'BLOOM', 'BLOWN', 'BLUFF', 'BLUNT', 'BLURB', 'BLURT', 'BLUSH',
-    'BOARD', 'BOAST', 'BONGO', 'BONUS', 'BOOBY', 'BOOST', 'BOOTY', 'BOOZE', 'BOOZY', 'BORAX',
+    'BOARD', 'BOAST', 'BONGO', 'BONUS', 'BOOBY', 'BOOST', 'BOOTH', 'BOOTY', 'BOOZE', 'BOOZY', 'BORAX',
     'BORNE', 'BOSSY', 'BOUGH', 'BOXER', 'BRACE', 'BRAID', 'BRAIN', 'BRAKE', 'BRAND', 'BRASH',
     'BRASS', 'BRAVE', 'BRAVO', 'BRAWN', 'BREAD', 'BREAK', 'BREAK', 'BREED', 'BRIAR', 'BRIBE', 
     'BRIDE',
@@ -258,7 +258,7 @@ my_list = {
     'WROTE', 'WRUNG', 'YACHT', 'YEARN', 'YEAST', 'YIELD', 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'LEGAL'
+word_to_find = 'BOOTH'
 
 
 if word_to_find in my_list:
