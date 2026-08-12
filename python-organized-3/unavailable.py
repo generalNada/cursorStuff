@@ -86,7 +86,7 @@ my_list = {
     'EXCEL',
     'EXERT', 'EXILE', 'EXIST', 'EXPEL', 'EXTOL', 'EXTRA', 'EVENT', 'EXULT', 'FABLE', 'FACET',
     'FAINT', 'FAITH', 'FALSE', 'FANCY', 'FARCE', 'FAULT', 'FAVOR', 'FEAST', 'FEIGN', 'FEIGN', 
-    'FERAL',
+    'FENCE', 'FERAL',
     'FERRY', 'FETCH', 'FETID', 'FEVER', 'FEWER', 'FIBER', 'FIELD', 'FIEND', 'FIERY', 'FIFTH',
     'FIFTY', 'FILET', 'FILLY', 'FINAL', 'FINCH', 'FINER', 'FIRST', 'FISHY', 'FIXER', 'FIZZY'
     'FJORD',
@@ -211,8 +211,8 @@ my_list = {
     'SLOTH', 'SLUMP', 'SLUNG', 'SLUSH', 'SMALL', 'SMART', 'SMASH', 'SMEAR', 'SMELL', 'SMELT', 
     'SMILE', 'SMILE', 'SMIRK',
     'SMITE', 'SMITH', 'SMOCK', 'SMOKE', 'SNACK', 'SNAFU', 'SNAIL', 'SNAKE', 'SNAKY', 'SNARE',
-    'SNARL', 'SNEAK', 'SNIDE', 'SNOOP', 'SNORE', 'SNORT', 'SNOUT', 'SOBER', 'SOGGY', 'SOLAR', 
-    'SOLID', 'SOLVE', 'SONAR',
+    'SNARL', 'SNEAK', 'SNIDE', 'SNIPE', 'SNOOP', 'SNORE', 'SNORT', 'SNOUT', 'SOBER', 'SOGGY', 
+    'SOLAR', 'SOLID', 'SOLVE', 'SONAR',
     'SONIC', 'SORRY', 'SOUND', 'SOUTH', 'SOWER', 'SPACE', 'SPADE', 'SPARE', 'SPASM', 'SPARK',
     'SPATE', 'SPEAK', 'SPEAR', 'SPECK', 'SPEED', 'SPELL', 'SPELT', 'SPEND', 'SPENT', 'SPICE',
     'SPICY', 'SPIEL', 'SPIKE', 'SPILL', 'SPINE', 'SPINY', 'SPIRE', 'SPITE', 'SPLAT', 'SPLIT',
@@ -270,7 +270,7 @@ my_list = {
     'WROTE', 'WRUNG', 'YACHT', 'YEARN', 'YEAST', 'YIELD', 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'CLUNK'
+word_to_find = 'FENCE'
 
 
 if word_to_find in my_list:
