@@ -187,7 +187,7 @@ my_list = {
     'QUITE', 'QUOTA', 'QUOTE', 'RABID', 'RACER', 'RADIO', 'RAINY', 'RAISE', 'RAMEN', 'RANCH',
     'RANGE', 'RAPID', 'RATIO', 'RATTY', 'RAYON', 'REACH', 'REACT', 'READY', 'REALM', 'REBEL',
     'REBUS', 'REBUT', 'RECAP', 'RECUR', 'REFER', 'REGAL', 'REHAB', 'RELAX', 'RELAY', 'RELIC', 
-    'REMIT',
+    'REMIT', 'REMIX',
     'RENEW', 'REPAY', 'REPEL', 'REPLY', 'RERUN', 'RESIN', 'RETCH', 'RETRO', 'RETRY', 'REVEL', 
     'REVUE',
     'RHINO', 'RHYME', 'RIDER', 'RIDGE', 'RIGHT', 'RIGID', 'RIPER', 'RISEN', 'RISER', 'RIVAL', 
@@ -276,7 +276,7 @@ my_list = {
     'WROTE', 'WRUNG', 'YACHT', 'YEARN', 'YEAST', 'YIELD', 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'MOUND'
+word_to_find = 'REMIX'
 
 
 if word_to_find in my_list:
