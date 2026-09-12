@@ -67,11 +67,11 @@ unused_list = [
     "WREST", "WRING", "WRYLY", "ZONAL"
 ]
 
-word = 'DRYLY'
+word = 'ASTER'
 
 
 if word in unused_list:
- print(f"{word} is in this list -  {word} is available! Guess {word}. Give {word} a try, Man!")
+ print(f"{word} is in this list -  {word} is available! Guess {word}. Give {word} a try, Man-Child!")
 else:
    print(f"{word} is not in this list, Jerk!! {word} has most likely already been used by Wordle.")
 
