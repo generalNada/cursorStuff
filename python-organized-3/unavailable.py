@@ -152,7 +152,8 @@ my_list = {
     'MANLY', 'MANOR', 'MAPLE', 'MARCH', 'MARRY', 'MARSH', 'MASON', 'MASSE', 'MATEY', 'MATCH',
     'MATTE', 'MAUVE', 'MAVEN', 'MAXIM', 'MAYBE', 'MAYOR', 'MEALY', 'MEANT', 'MEDAL', 'MEDIA', 
     'MEDIC',
-    'MELON', 'MERCY', 'MERGE', 'MERIT', 'MERRY', 'METAL', 'METER', 'METRO', 'MICRO', 'MIDGE',
+    'MELON', 'MERCY', 'MERGE', 'MERIT', 'MERRY', 'MESSY', 'METAL', 'METER', 'METRO', 'MICRO', 
+    'MIDGE',
     'MIDST', 'MIGHT', 'MIMIC', 'MINER', 'MINTY', 'MINUS', 'MINCE', 'MIRTH', 'MISER', 'MODAL',
     'MODEL', 'MODEM', 'MOGUL', 'MOIST', 'MOLAR', 'MOLDY', 'MOMMY', 'MONEY', 'MONTH', 'MOOCH',
     'MOOSE', 'MORAL', 'MORPH', 'MOSSY', 'MOTEL', 'MOTIF', 'MOTOR', 'MOTTO', 'MOULT', 'MOUND',
@@ -284,7 +285,7 @@ my_list = {
     'WROTE', 'WRUNG', 'YACHT', 'YEARN', 'YEAST', 'YIELD', 'YOUNG', 'YOUTH', 'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'FORTH'
+word_to_find = 'MESSY'
 
 
 if word_to_find in my_list:
