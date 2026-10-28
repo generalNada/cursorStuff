@@ -1,10 +1,10 @@
 unused_list = [
     "ABLED", "ABODE", "ABORT", "ABUSE", "AFIRE", "AFOUL", "AIDER", "ALGAE",
     "ALLAY", "ANIME",
-    "ANNUL", "APING", "APNEA", "ARENA", "ARMOR", "AROSE", "ARRAY", "ARSON", "ASTIR", "
+    "ANNUL", "APING", "APNEA", "ARENA", "ARMOR", "AROSE", "ARRAY", "ARSON", "ASTIR", "AUGUR",
     "AUNTY", "AXIAL", "AXION", "BAGGY", "BASAL", "BEECH",
     "BEGAN", "BEGAT", "BERRY", "BETEL", "BEVEL", "BEZEL", "BIBLE", "BIDDY",
-    "BIGOT", "BILLY", "BINGO", "BISON", "BITTY", "BLESS", "BLITZ", "BLOAT", 
+    "BIGOT", "BILLY", "BISON", "BITTY", "BLESS", "BLITZ", "BLOAT", 
     "BLUER", "BOBBY", "BONEY", "BOSOM", "BOTCH", "BOULE", "BOUND", "BOWEL", "BRAWL",
     "BRICK", "BRINY", "BURNT", "BUSED", "BUSHY", "BUTCH",
     "BUXOM", "CABAL", "CABBY", "CABIN", "CADDY", "CAGEY", "CAIRN", 
@@ -22,7 +22,7 @@ unused_list = [
     "FATTY", "FAUNA", "FECAL", "FELLA", "FELON", "FEMME", "FEMUR", "FETAL", "FETUS",
     "FICUS", "FIGHT", "FILER", "FILMY", "FILTH", "FLACK", "FLECK", "FLEET", "FLIER",
     "FLUID", "FLUSH", "FRAUD", "FREED", "FREER", "FRIAR", "FRISK", "FUDGE", "FUROR", "FURRY",
-    "FUSSY", "GABLE", "GAILY", "GASSY", "GATOR", "GAYER", "GAYLY", "GAZER",
+    "FUSSY", "GABLE", "GAILY", "GASSY", "GATOR", "GAYER", "GAYLY", "GAZER", 
     "GIPSY", "GIRLY", "GIVER", "GODLY", "GOLLY", "GONAD", "GOURD", "GRAZE",
     "GROPE", "GROWN", "GRUNT", "GUILT", "GULCH", "GUSTO", "GUTSY", "GYPSY", "HAREM",
     "HARPY", "HARRY", "HAUTE", "HEDGE", "HIPPY", "HITCH", "HONOR", "HOOCH", "HORNY",
@@ -67,7 +67,7 @@ unused_list = [
     "WRING", "WRYLY", "ZONAL"
 ]
 
-word = 'GEEKY'
+word = 'BINGO'
 
 
 if word in unused_list:
