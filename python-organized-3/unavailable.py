@@ -224,8 +224,8 @@ my_list = {
     'SHOWY', 'SHRED', 'SHRUB', 'SHRUG', 'SHUCK', 'SHUNT', 'SHYLY', 'SIEGE', 'SIGHT', 'SILLY',
     'SINCE', 'SINGE', 'SIREN', 'SISSY', 'SITAR', 'SIXTH', 'SKATE', 'SKILL', 'SKIMP', 'SKIER', 
     'SKIFF',
-    'SKIRT', 'SKULL', 'SKUNK', 'SLANG', 'SLATE', 'SLEEK', 'SLEEP', 'SLICE', 'SLICK', 'SLIME', 
-    'SLING', 'SLOOP', 'SLOPE', 'SLOSH',
+    'SKIRT', 'SKULL', 'SKUNK', 'SLANG', 'SLATE', 'SLEEK', 'SLEEP', 'SLICE', 'SLICK', 'SLIDE',
+    'SLIME', 'SLING', 'SLOOP', 'SLOPE', 'SLOSH',
     'SLOTH', 'SLUMP', 'SLUNG', 'SLUSH', 'SMALL', 'SMART', 'SMASH', 'SMEAR', 'SMELL', 'SMELT', 
     'SMILE', 'SMILE', 'SMIRK',
     'SMITE', 'SMITH', 'SMOCK', 'SMOKE', 'SNACK', 'SNAFU', 'SNAIL', 'SNAKE', 'SNAKY', 'SNARE',
@@ -297,7 +297,7 @@ my_list = {
     'ZESTY'
 }
 
-word_to_find = 'MOTOR'
+word_to_find = 'SLIDE'
 
 
 if word_to_find in my_list:
