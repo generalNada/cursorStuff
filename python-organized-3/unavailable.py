@@ -300,7 +300,7 @@ my_list = {
     'ZEBRA', 'ZESTY'
 }
 
-word_to_find = 'STENT'
+word_to_find = 'UPEND'
 
 
 if word_to_find in my_list:
